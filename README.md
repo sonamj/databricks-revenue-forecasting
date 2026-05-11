@@ -203,11 +203,11 @@ Feel free to fork this repo and customize for your own use cases:
 
 ## 📝 License
 
-This project is open source and available for educational and commercial use.
+This project is open source and available for educational use.
 
 ## 👤 Author
 
-**Shubham Jaiswal**
+**Sonam Jaiswal**
 
 This project was created as a proof-of-concept to demonstrate Databricks capabilities for revenue forecasting in a production environment.
 
