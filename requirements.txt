@@ -1,0 +1,22 @@
+# Python dependencies for Databricks Revenue Forecasting project
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Time-Series Forecasting
+prophet>=1.1.4
+
+# Visualization
+plotly>=5.14.0
+kaleido>=0.2.1
+
+# MLflow (experiment tracking)
+mlflow>=2.8.0
+
+# PySpark (included in Databricks runtime, but listed for reference)
+pyspark>=3.4.0
+
+# Optional: For local testing
+jupyter>=1.0.0
+notebook>=6.5.0
